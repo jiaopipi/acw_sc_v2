@@ -13,9 +13,6 @@ String["prototype"]["unsbox"]= function() {
     _0x12605e = _0x4da0dc['\x6a\x6f\x69\x6e']('');
     return _0x12605e;
 };
-
-
-
 String["prototype"]["hexXor"] = function(_0x4e08d8) {
     var _0x5a5d3b = '';
     for (var _0xe89588 = 0x0; _0xe89588 < this["length"] && _0xe89588 < _0x4e08d8["length"]; _0xe89588 += 0x2) {
